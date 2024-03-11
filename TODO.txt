@@ -1,0 +1,9 @@
+TODO:
+
+- Create alpha channel of cube
+- Figure out how to test multiple image files for presence of cubes
+- Figure out logic to detect the occurence of the cube in the collection tray for 1-3 intances of the cube
+- timing and time out of detection logic for 1-3 cubes in tray, move on if (T) time has passed
+- using the threshold logic, the robot should either move on or keep looking for cubes
+- 
+
