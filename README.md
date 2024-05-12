@@ -9,3 +9,6 @@ It is designed to use the OpenCV2 library with Python.
 ## Purpose
 The objective for this snippet is to detect purple cube game objects as a robot picks them up. It should detect the amount of cubes present in the collection spot and report back to the robot.
 It achieves this by taking a set number of photos using the PiCam attached to the robot and detecting the size of the object in the collection zone. 
+
+## Reference Documentation
+[OpenCV Colorspaces](https://docs.opencv.org/3.4/df/d9d/tutorial_py_colorspaces.html)
