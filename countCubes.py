@@ -2,7 +2,7 @@ import cv2 as cv
 import numpy as np
 from cropByHsv import cropByHSV
 
-#roi coordinates
+#roi coordinates 
 blue0 = (50, 20, 408, 290)
 blue1 = (405, 170, 124, 162)
 red = (475, 27, 129, 131)
